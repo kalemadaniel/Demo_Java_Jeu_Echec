@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Demo_Java_Jeu_Echec" default="default" basedir=".">
+    <description>Compile et lance le projet Swing ou produit son JAR exécutable.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
